@@ -1,5 +1,6 @@
 [![Braydon's GitHub Banner](./kut.jpeg)](https://en.wikipedia.org/wiki/Kutaisi)
 
+```javascript
 import SoftwareDeveloper from 'Avtik';
 import { Languages, Frameworks } from 'Avtiiik/skills';
 
@@ -13,3 +14,4 @@ class Skills extends SoftwareDeveloper {
   languages  = ['PHP', 'JavaScript', 'TypeScript', ...Languages];
   databases  = ['MySQL', 'PostgreSQL'];
   frameworks = ['Laravel', 'Vue', 'React', 'Next.js', 'Nest.js', ...Frameworks];
+```
